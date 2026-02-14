@@ -24,8 +24,21 @@ let score="33"
 //[] => true
 //{} => true
 
-let someNumber=33;
-let stringNumber=String(someNumber);
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let someNumber=33;
+// let stringNumber=String(someNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 //33 => "33"
+
+// let str1="hello";
+// let str2="world";
+// let fullString=str1+" "+str2;
+// console.log(fullString);
+// console.log("1"+2);
+// console.log(1+"2");
+// console.log("1"+2+3);
+// console.log(1+"2"+3);
+// console.log(1+2+"3");
+// console.log(+true);
+// console.log(+"");
+
